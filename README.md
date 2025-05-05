@@ -2,7 +2,7 @@
 
 # Solucionador de Ecuaciones
 
-![App Screenshot](assets/screenshots/app_screenshot.png)
+![App Screenshot](assets/app_screenshot.png)
 
 El Solucionador de Ecuaciones es una aplicación Flutter moderna y accesible diseñada para resolver ecuaciones matemáticas utilizando diferentes métodos numéricos. La aplicación proporciona una interfaz intuitiva y profesional para resolver ecuaciones usando los métodos de Bisección, Newton-Raphson y Secante.
 
