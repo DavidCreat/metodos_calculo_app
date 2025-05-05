@@ -1,5 +1,3 @@
-# solucionador_flutter
-
 # Solucionador de Ecuaciones
 
 ![App Screenshot](assets/app_screenshot.png)
