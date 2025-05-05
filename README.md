@@ -307,9 +307,3 @@ Este proyecto está bajo la Licencia MIT - consulta el archivo LICENSE para más
 
 - Email: david.fonseca12p@gmail.com
 - GitHub: [DavidCreat](https://github.com/DavidCreat)
-
-## Agradecimientos
-
-- A todos los contribuidores que han ayudado a mejorar este proyecto
-- A la comunidad Flutter por su excelente documentación y herramientas
-- A los usuarios que han proporcionado feedback valioso
